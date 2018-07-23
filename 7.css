@@ -1,0 +1,47 @@
+.t{
+	border: 3px solid;
+	border-color: #000338ed;
+	width: 200px;
+	height: 200px;
+	background-color: #227968;
+	position: absolute;
+	top: 30px;
+	right: 20px;
+}
+.y {
+	border: 3px solid;
+	border-color: #000338ed;
+	background-color: #7c820a;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top:30px;
+	left: 20px;
+
+}
+.e {
+	border:3px solid;
+	border-color: #000338ed;
+	background-color:#001780;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+}
+.u {  
+   position: absolute;
+   bottom: 20px;
+   right: 20px;
+   border: 3px solid;
+   border-color:#000338ed;
+   width: 200px;
+   height: 200px;
+   background-color: #6610f2;
+}
+.body {
+	border: 5px dashed;
+	width: unset;
+	height: 626px;
+	background-color: #480c41;
+}

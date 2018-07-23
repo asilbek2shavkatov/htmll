@@ -1,0 +1,27 @@
+.e {
+	border: 3px solid;
+	width: 200px;
+	height: 200px;
+	background-color: #dc3545;
+	position: fixed;
+	top: 30px;
+}
+.y {
+	border: 3px solid;
+	width: 200px;
+	height: 200px;
+	background-color:#dc3545 ;
+	position: absolute;
+    top: 1000px;
+}
+.r {
+	border: 3px solid;
+	width: 200px;
+	height: 200px;
+	background-color:#000000 ;
+	position:absolute;
+    top:500px;
+}
+.t {
+	background-color: #343a40;
+}

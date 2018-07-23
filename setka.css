@@ -1,0 +1,18 @@
+html {box-sizing: border-box;}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+	display: inline-block;
+}
+.l-wrap {
+	max-width: 900px;
+	margin-right:auto;
+	margin-left:auto;
+}
+.two-col-grid .grid-item {
+	width: 30%;
+	height: 300px;
+	
+	text-align: center;
+}
